@@ -2,7 +2,7 @@
 
 This repository contains the core implementation and experiment notebooks for a working paper on resilient team formation. A team assignment is represented as a hypergraph: agents are nodes, tasks are hyperedges, and node–edge incidences encode assignments.
 
-The proposed construction creates feasible, connected assignments and uses residual agent capacity to improve resilience. The repository also includes the search- and random-graph-based baselines used for method validation.
+The proposed construction creates feasible, connected assignments and uses residual agent capacity to improve resilience. The repository also includes the search- and generation-based baselines used for method validation.
 
 ## Repository structure
 
